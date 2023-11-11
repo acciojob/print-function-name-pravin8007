@@ -1,8 +1,8 @@
 //your JS code here. If required.
-function Name() {
+function functionName() {
 	alert("functionName");
 }
-Name();
+functionName();
 function Acciojob() {
 	alert("Acciojob");
 }
