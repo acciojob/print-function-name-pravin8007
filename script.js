@@ -3,9 +3,9 @@ function functionName() {
 	alert("functionName");
 }
 functionName();
-function Acciojob() {
-	alert("Acciojob");
-}
-Acciojob();
+// function Acciojob() {
+// 	alert("Acciojob");
+// }
+// Acciojob()
 
 
