@@ -1,11 +1,13 @@
 //your JS code here. If required.
-function functionName() {
-	alert("functionName");
+let func = function name() {
+	alert(`func`);
 }
-functionName();
+func();
 // function Acciojob() {
 // 	alert("Acciojob");
 // }
 // Acciojob()
+
+
 
 
