@@ -1,12 +1,9 @@
-//your JS code here. If required.
-let func = function name() {
-	alert(`func`);
+function functionName() {
+  alert(arguments.callee.name);
 }
-func();
-// function Acciojob() {
-// 	alert("Acciojob");
-// }
-// Acciojob()
+
+// Call the function to see the alert
+functionName();
 
 
 
